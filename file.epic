@@ -4,7 +4,7 @@
 ; @debug enables debug output
 ; @logfile set output to save to whatever file you put in
 
-; (those commands do not allow comments after them)
+; (those commands tend to break if you put comments after them, I'm not sure why.)
 
 line /potato/ ; prints "potato"
 line /text1/ /text2/ ; prints "text1 text2"
